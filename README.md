@@ -1,4 +1,4 @@
-# js-proge Sven Laht TA-22E
+# Sven Laht TA-22E
 
 Kui soovite kasutada rakendust avage index.html brauseris.
 Kui soovite näha ainult js koodi siis avage checkTemp.js.
