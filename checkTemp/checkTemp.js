@@ -1,4 +1,4 @@
-function getInputValue()
+function checkTemp()
 {
     let value = document.getElementById("Inpu").value;
 
